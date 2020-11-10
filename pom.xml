@@ -57,7 +57,7 @@
 				<configuration>
 					<schemaVersion>V2</schemaVersion>
 					<resourceGroup>spring-boot-1604954645175-rg</resourceGroup>
-					<appName>spring-boot-1604954645175</appName>
+					<appName>spring-boot-cdci</appName>
 					<subscriptionId>34a75542-211a-48b9-81ea-efe251e49bdd</subscriptionId>
 					<pricingTier>F1</pricingTier>
 					<region>westeurope</region>
