@@ -8,12 +8,12 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "added CD";
+		return "hello master";
 	}
 	
 	@RequestMapping("/v1")
 	public String index_() {
-		return "added CD";
+		return "hello master";
 	}
 
 }
