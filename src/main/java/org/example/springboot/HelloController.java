@@ -8,12 +8,12 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot!";
+		return "added CD";
 	}
 	
 	@RequestMapping("/v1")
 	public String index_() {
-		return "Hi, again";
+		return "added CD";
 	}
 
 }
